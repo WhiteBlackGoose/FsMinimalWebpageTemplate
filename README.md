@@ -1,2 +1,5 @@
-# FsMinimalWebpageTemplate
-Template repo for a minimal html page in github pages, that is, hosted for free. The code is in F#
+# F# Minimal Webpage Template
+
+Create basic websites in html using F#'s [Giraffe.ViewEngine](https://github.com/giraffe-fsharp/Giraffe.ViewEngine). On every push it will be automatically updated.
+
+After you created a repo based on this one, edit main.fsx, commit and enjoy the update.
